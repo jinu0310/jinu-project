@@ -1,1 +1,1 @@
-# jinu project
+# jinuproject
